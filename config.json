@@ -1,5 +1,5 @@
 {
-  "whiteList": [
+  "whiteListAddr": [
     "0x6CD20be8914A9Be48f2a35E56354490B80522856",
     "0xc0B4ab5CB0Fdd6f5DFddb2F7C10c4c6013F97bF2",
     "0x66Ccc220543B6832f93c2082EDD7be19c21dF6C0",
@@ -8,5 +8,6 @@
     "0x34Be5b8C30eE4fDe069DC878989686aBE9884470",
     "0x281A95769916555D1C97036E0331b232b16EdABC"
   ],
+  "whiteListUrl":["https://layer3.xyz/"],
   "gasTotalLimit": 0.0012
 }
