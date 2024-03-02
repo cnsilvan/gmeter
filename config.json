@@ -1,7 +1,7 @@
 {
   "whiteListAddr": [
     "0x6CD20be8914A9Be48f2a35E56354490B80522856",
-    "0x6cd20be8914A9be48f2a35E56354490b80522856",
+    "0x6cd20be8914a9be48f2a35e56354490b80522856",
     "0xc0B4ab5CB0Fdd6f5DFddb2F7C10c4c6013F97bF2",
     "0xc0b4ab5cb0fdd6f5dfddb2f7c10c4c6013f97bf2",
     "0x66Ccc220543B6832f93c2082EDD7be19c21dF6C0",
@@ -14,8 +14,7 @@
     "0x34be5b8c30ee4fde069dc878989686abe9884470",
     "0x281A95769916555D1C97036E0331b232b16EdABC",
     "0x281a95769916555d1c97036e0331b232b16edabc",
-    "0x63ce21bd9af8cc603322cb025f26db567de8102b",
-    "0x6cd20be8914a9be48f2a35e56354490b80522856"
+    "0x63ce21bd9af8cc603322cb025f26db567de8102b"
   ],
   "whiteListUrl":["https://layer3.xyz","https://app.gamerboom.org","https://alienswap.xyz","https://app.pictographs.io","https://omnisea.org","https://app.yooldo.gg"],
   "gasTotalLimit": 0.0012
