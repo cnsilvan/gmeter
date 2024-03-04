@@ -20,5 +20,5 @@
     "0xce048492076b0130821866f6d05a0b621b1715c8"
   ],
   "whiteListUrl":["https://layer3.xyz","https://app.gamerboom.org","https://game.townstory.io","https://play.sidusheroes.com","https://alienswap.xyz","https://app.pictographs.io","https://omnisea.org","https://app.yooldo.gg"],
-  "autoClick":true
+  "autoClick":false
 }
