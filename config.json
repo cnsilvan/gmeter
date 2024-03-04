@@ -17,6 +17,5 @@
     "0x63ce21bd9af8cc603322cb025f26db567de8102b"
   ],
   "whiteListUrl":["https://layer3.xyz","https://app.gamerboom.org","https://game.townstory.io","https://play.sidusheroes.com","https://alienswap.xyz","https://app.pictographs.io","https://omnisea.org","https://app.yooldo.gg"],
-  "gasTotalLimit": 0.0012,
   "autoClick":true
 }
