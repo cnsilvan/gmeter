@@ -1,5 +1,5 @@
 {
-  "clientAddr":[],
+  "clientAddr": [],
   "whiteListAddr": [
     "0x6CD20be8914A9Be48f2a35E56354490B80522856",
     "0x6cd20be8914a9be48f2a35e56354490b80522856",
@@ -19,6 +19,16 @@
     "0xb86b3e16b6b960fd822849fd4b4861d73805879b",
     "0xce048492076b0130821866f6d05a0b621b1715c8"
   ],
-  "whiteListUrl":["https://layer3.xyz","https://app.gamerboom.org","https://game.townstory.io","https://play.sidusheroes.com","https://alienswap.xyz","https://app.pictographs.io","https://omnisea.org","https://app.yooldo.gg"],
-  "autoClick":false
+  "whiteListUrl": [
+    "https://layer3.xyz",
+    "https://app.gamerboom.org",
+    "https://game.townstory.io",
+    "https://play.sidusheroes.com",
+    "https://alienswap.xyz",
+    "https://app.pictographs.io",
+    "https://omnisea.org",
+    "https://app.yooldo.gg",
+    "https://poh.linea.build"
+  ],
+  "autoClick": false
 }
