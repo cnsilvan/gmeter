@@ -1,12 +1,12 @@
 {
   "clientAddr": [
-    "0x551f3816771b1e4c231b0cac06bf05c25b7932f6",
+    "0x551f3816771b1e4c231b0cac06bf05c25b7932f6"
   ],
   "whiteListAddr": [
-    "0xa51a7ca343ec62bcb645b4ee200adcae68f59a87",
+    "0xa51a7ca343ec62bcb645b4ee200adcae68f59a87"
   ],
   "whiteListUrl": [
-    "https://layer3.xyz",
+    "https://layer3.xyz"
   ],
   "autoClick": false
 }
